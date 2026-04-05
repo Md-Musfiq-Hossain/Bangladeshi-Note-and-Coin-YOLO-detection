@@ -1,0 +1,7 @@
+train: ../train/images
+test: ../test/images 
+val: ../val/images
+
+
+nc: 2
+names: ['2 taka coin', '5 taka coin']
