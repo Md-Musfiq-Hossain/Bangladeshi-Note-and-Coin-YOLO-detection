@@ -1,0 +1,7 @@
+train: ../train/images
+test: ../test/images 
+val: ../val/images
+
+
+nc: 9
+names: ['2 taka', '5 taka', '10 taka', '20 taka', '50 taka', '100 taka', '200 taka', '500 taka', '1000 taka']
